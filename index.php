@@ -10,8 +10,12 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        
+        <div>
+            <input type="text"></input>
+        </div>
         <?php
-        // put your code here
+        
         ?>
     </body>
 </html>
