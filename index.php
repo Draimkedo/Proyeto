@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         
         <div>
-            <input type="text"></input>
+            <center><input type="text"></center>
         </div>
         <?php
         
