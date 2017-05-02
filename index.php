@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>NOSE yo tampoco by:Don vergas </title>
+        <title>hola mundo</title>
     </head>
     <body>
         
