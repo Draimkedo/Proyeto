@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>santiago es gay</title>
+        <title>looooooooooooooooooooool</title>
     </head>
     <body>
         
